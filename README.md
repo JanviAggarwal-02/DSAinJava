@@ -11,6 +11,7 @@ Data Structures and Algorithms practice and implementations in Java.
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0023-merge-k-sorted-lists) |
+| [0622-design-circular-queue](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0622-design-circular-queue) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -27,4 +28,16 @@ Data Structures and Algorithms practice and implementations in Java.
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0023-merge-k-sorted-lists) |
+## Array
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0622-design-circular-queue) |
+## Design
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0622-design-circular-queue) |
+## Queue
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
