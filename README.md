@@ -20,6 +20,7 @@ Data Structures and Algorithms practice and implementations in Java.
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0023-merge-k-sorted-lists) |
+| [0621-task-scheduler](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0621-task-scheduler) |
 ## Merge Sort
 |  |
 | ------- |
@@ -31,6 +32,7 @@ Data Structures and Algorithms practice and implementations in Java.
 ## Array
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0621-task-scheduler) |
 | [0622-design-circular-queue](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0622-design-circular-queue) |
 ## Design
 |  |
@@ -40,4 +42,20 @@ Data Structures and Algorithms practice and implementations in Java.
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0622-design-circular-queue) |
+## Hash Table
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0621-task-scheduler) |
+## Greedy
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0621-task-scheduler) |
+## Sorting
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0621-task-scheduler) |
+## Counting
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0621-task-scheduler) |
 <!---LeetCode Topics End-->
