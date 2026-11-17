@@ -33,6 +33,7 @@ Data Structures and Algorithms practice and implementations in Java.
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0128-longest-consecutive-sequence) |
 | [0621-task-scheduler](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0621-task-scheduler) |
 | [0622-design-circular-queue](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0622-design-circular-queue) |
 ## Design
@@ -47,6 +48,7 @@ Data Structures and Algorithms practice and implementations in Java.
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0128-longest-consecutive-sequence) |
 | [0621-task-scheduler](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0621-task-scheduler) |
 ## Greedy
 |  |
@@ -65,4 +67,8 @@ Data Structures and Algorithms practice and implementations in Java.
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0049-group-anagrams) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
