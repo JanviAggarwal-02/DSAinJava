@@ -32,6 +32,7 @@ Data Structures and Algorithms practice and implementations in Java.
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0049-group-anagrams) |
 | [0621-task-scheduler](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0621-task-scheduler) |
 | [0622-design-circular-queue](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0622-design-circular-queue) |
 ## Design
@@ -45,6 +46,7 @@ Data Structures and Algorithms practice and implementations in Java.
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0049-group-anagrams) |
 | [0621-task-scheduler](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0621-task-scheduler) |
 ## Greedy
 |  |
@@ -53,9 +55,14 @@ Data Structures and Algorithms practice and implementations in Java.
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0049-group-anagrams) |
 | [0621-task-scheduler](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0621-task-scheduler) |
 ## Counting
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0621-task-scheduler) |
+## String
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
