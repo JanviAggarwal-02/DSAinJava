@@ -22,6 +22,7 @@ Data Structures and Algorithms practice and implementations in Java.
 | [0023-merge-k-sorted-lists](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0023-merge-k-sorted-lists) |
 | [0451-sort-characters-by-frequency](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0621-task-scheduler) |
+| [0692-top-k-frequent-words](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0692-top-k-frequent-words) |
 ## Merge Sort
 |  |
 | ------- |
@@ -37,6 +38,7 @@ Data Structures and Algorithms practice and implementations in Java.
 | [0128-longest-consecutive-sequence](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0128-longest-consecutive-sequence) |
 | [0621-task-scheduler](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0621-task-scheduler) |
 | [0622-design-circular-queue](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0622-design-circular-queue) |
+| [0692-top-k-frequent-words](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0692-top-k-frequent-words) |
 ## Design
 |  |
 | ------- |
@@ -52,6 +54,7 @@ Data Structures and Algorithms practice and implementations in Java.
 | [0128-longest-consecutive-sequence](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0128-longest-consecutive-sequence) |
 | [0451-sort-characters-by-frequency](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0621-task-scheduler) |
+| [0692-top-k-frequent-words](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0692-top-k-frequent-words) |
 ## Greedy
 |  |
 | ------- |
@@ -62,16 +65,19 @@ Data Structures and Algorithms practice and implementations in Java.
 | [0049-group-anagrams](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0049-group-anagrams) |
 | [0451-sort-characters-by-frequency](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0621-task-scheduler) |
+| [0692-top-k-frequent-words](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0692-top-k-frequent-words) |
 ## Counting
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0621-task-scheduler) |
+| [0692-top-k-frequent-words](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0692-top-k-frequent-words) |
 ## String
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0049-group-anagrams) |
 | [0451-sort-characters-by-frequency](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0451-sort-characters-by-frequency) |
+| [0692-top-k-frequent-words](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0692-top-k-frequent-words) |
 ## Union-Find
 |  |
 | ------- |
@@ -80,4 +86,9 @@ Data Structures and Algorithms practice and implementations in Java.
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0451-sort-characters-by-frequency) |
+| [0692-top-k-frequent-words](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0692-top-k-frequent-words) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
