@@ -11,6 +11,7 @@ Data Structures and Algorithms practice and implementations in Java.
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0023-merge-k-sorted-lists) |
+| [0138-copy-list-with-random-pointer](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0138-copy-list-with-random-pointer) |
 | [0622-design-circular-queue](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0622-design-circular-queue) |
 ## Divide and Conquer
 |  |
@@ -75,6 +76,7 @@ Data Structures and Algorithms practice and implementations in Java.
 | [0049-group-anagrams](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0128-longest-consecutive-sequence) |
+| [0138-copy-list-with-random-pointer](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0138-copy-list-with-random-pointer) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0451-sort-characters-by-frequency) |
