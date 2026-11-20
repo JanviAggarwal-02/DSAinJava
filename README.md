@@ -44,6 +44,7 @@ Data Structures and Algorithms practice and implementations in Java.
 | [0621-task-scheduler](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0621-task-scheduler) |
 | [0622-design-circular-queue](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0622-design-circular-queue) |
 | [0692-top-k-frequent-words](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0692-top-k-frequent-words) |
+| [0746-min-cost-climbing-stairs](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0746-min-cost-climbing-stairs) |
 | [0989-add-to-array-form-of-integer](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0989-add-to-array-form-of-integer) |
 ## Design
 |  |
@@ -119,6 +120,7 @@ Data Structures and Algorithms practice and implementations in Java.
 | [0053-maximum-subarray](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0118-pascals-triangle) |
+| [0746-min-cost-climbing-stairs](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0746-min-cost-climbing-stairs) |
 ## Binary Search
 |  |
 | ------- |
