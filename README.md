@@ -38,6 +38,7 @@ Data Structures and Algorithms practice and implementations in Java.
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0049-group-anagrams](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0053-maximum-subarray) |
+| [0088-merge-sorted-array](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0128-longest-consecutive-sequence) |
 | [0209-minimum-size-subarray-sum](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0209-minimum-size-subarray-sum) |
@@ -75,6 +76,7 @@ Data Structures and Algorithms practice and implementations in Java.
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0088-merge-sorted-array) |
 | [0451-sort-characters-by-frequency](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0692-top-k-frequent-words) |
@@ -137,4 +139,8 @@ Data Structures and Algorithms practice and implementations in Java.
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0070-climbing-stairs) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
