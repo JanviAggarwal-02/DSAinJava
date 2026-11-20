@@ -40,6 +40,7 @@ Data Structures and Algorithms practice and implementations in Java.
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0039-combination-sum](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0075-sort-colors) |
@@ -177,6 +178,7 @@ Data Structures and Algorithms practice and implementations in Java.
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0039-combination-sum) |
 | [0401-binary-watch](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0401-binary-watch) |
 ## Bit Manipulation
 |  |
