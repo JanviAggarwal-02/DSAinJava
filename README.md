@@ -46,6 +46,7 @@ Data Structures and Algorithms practice and implementations in Java.
 | [0049-group-anagrams](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0128-longest-consecutive-sequence) |
@@ -187,9 +188,11 @@ Data Structures and Algorithms practice and implementations in Java.
 | [0039-combination-sum](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0047-permutations-ii) |
+| [0078-subsets](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0078-subsets) |
 | [0401-binary-watch](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0401-binary-watch) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0078-subsets) |
 | [0401-binary-watch](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0401-binary-watch) |
 <!---LeetCode Topics End-->
