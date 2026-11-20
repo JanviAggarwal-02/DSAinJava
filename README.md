@@ -69,6 +69,7 @@ Data Structures and Algorithms practice and implementations in Java.
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0128-longest-consecutive-sequence) |
@@ -102,6 +103,7 @@ Data Structures and Algorithms practice and implementations in Java.
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0076-minimum-window-substring) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -179,6 +181,7 @@ Data Structures and Algorithms practice and implementations in Java.
 ## Backtracking
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0040-combination-sum-ii) |
 | [0401-binary-watch](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0401-binary-watch) |
