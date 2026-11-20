@@ -39,6 +39,7 @@ Data Structures and Algorithms practice and implementations in Java.
 | [0621-task-scheduler](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0621-task-scheduler) |
 | [0622-design-circular-queue](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0622-design-circular-queue) |
 | [0692-top-k-frequent-words](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0692-top-k-frequent-words) |
+| [0989-add-to-array-form-of-integer](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0989-add-to-array-form-of-integer) |
 ## Design
 |  |
 | ------- |
@@ -100,4 +101,8 @@ Data Structures and Algorithms practice and implementations in Java.
 | ------- |
 | [0076-minimum-window-substring](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0076-minimum-window-substring) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0438-find-all-anagrams-in-a-string) |
+## Math
+|  |
+| ------- |
+| [0989-add-to-array-form-of-integer](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0989-add-to-array-form-of-integer) |
 <!---LeetCode Topics End-->
