@@ -39,6 +39,7 @@ Data Structures and Algorithms practice and implementations in Java.
 | [0053-maximum-subarray](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0128-longest-consecutive-sequence) |
+| [0209-minimum-size-subarray-sum](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0209-minimum-size-subarray-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0621-task-scheduler](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0621-task-scheduler) |
 | [0622-design-circular-queue](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0622-design-circular-queue) |
@@ -105,6 +106,7 @@ Data Structures and Algorithms practice and implementations in Java.
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0076-minimum-window-substring) |
+| [0209-minimum-size-subarray-sum](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0209-minimum-size-subarray-sum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Math
 |  |
@@ -115,4 +117,12 @@ Data Structures and Algorithms practice and implementations in Java.
 | ------- |
 | [0053-maximum-subarray](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0118-pascals-triangle) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
