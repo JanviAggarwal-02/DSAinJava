@@ -174,4 +174,12 @@ Data Structures and Algorithms practice and implementations in Java.
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0912-sort-an-array) |
+## Backtracking
+|  |
+| ------- |
+| [0401-binary-watch](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0401-binary-watch) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0401-binary-watch](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0401-binary-watch) |
 <!---LeetCode Topics End-->
