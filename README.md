@@ -44,6 +44,7 @@ Data Structures and Algorithms practice and implementations in Java.
 | [0621-task-scheduler](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0621-task-scheduler) |
 | [0622-design-circular-queue](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0622-design-circular-queue) |
 | [0692-top-k-frequent-words](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0692-top-k-frequent-words) |
+| [0704-binary-search](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0704-binary-search) |
 | [0746-min-cost-climbing-stairs](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0746-min-cost-climbing-stairs) |
 | [0989-add-to-array-form-of-integer](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0989-add-to-array-form-of-integer) |
 ## Design
@@ -125,6 +126,7 @@ Data Structures and Algorithms practice and implementations in Java.
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0209-minimum-size-subarray-sum) |
+| [0704-binary-search](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0704-binary-search) |
 ## Prefix Sum
 |  |
 | ------- |
