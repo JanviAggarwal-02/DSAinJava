@@ -35,6 +35,7 @@ Data Structures and Algorithms practice and implementations in Java.
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0049-group-anagrams](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0118-pascals-triangle) |
@@ -125,6 +126,7 @@ Data Structures and Algorithms practice and implementations in Java.
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0704-binary-search) |
 ## Prefix Sum
