@@ -39,6 +39,7 @@ Data Structures and Algorithms practice and implementations in Java.
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0049-group-anagrams](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0128-longest-consecutive-sequence) |
@@ -79,6 +80,7 @@ Data Structures and Algorithms practice and implementations in Java.
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0088-merge-sorted-array) |
 | [0451-sort-characters-by-frequency](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0621-task-scheduler) |
@@ -148,5 +150,14 @@ Data Structures and Algorithms practice and implementations in Java.
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0088-merge-sorted-array) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
