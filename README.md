@@ -49,6 +49,7 @@ Data Structures and Algorithms practice and implementations in Java.
 | [0704-binary-search](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0704-binary-search) |
 | [0746-min-cost-climbing-stairs](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0746-min-cost-climbing-stairs) |
 | [0989-add-to-array-form-of-integer](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0989-add-to-array-form-of-integer) |
+| [2418-sort-the-people](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/2418-sort-the-people) |
 ## Design
 |  |
 | ------- |
@@ -68,6 +69,7 @@ Data Structures and Algorithms practice and implementations in Java.
 | [0451-sort-characters-by-frequency](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0692-top-k-frequent-words) |
+| [2418-sort-the-people](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/2418-sort-the-people) |
 ## Greedy
 |  |
 | ------- |
@@ -80,6 +82,7 @@ Data Structures and Algorithms practice and implementations in Java.
 | [0451-sort-characters-by-frequency](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0692-top-k-frequent-words) |
+| [2418-sort-the-people](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/2418-sort-the-people) |
 ## Counting
 |  |
 | ------- |
@@ -94,6 +97,7 @@ Data Structures and Algorithms practice and implementations in Java.
 | [0438-find-all-anagrams-in-a-string](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0692-top-k-frequent-words) |
+| [2418-sort-the-people](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/2418-sort-the-people) |
 ## Union-Find
 |  |
 | ------- |
