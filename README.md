@@ -111,11 +111,13 @@ Data Structures and Algorithms practice and implementations in Java.
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0070-climbing-stairs) |
 | [0989-add-to-array-form-of-integer](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0989-add-to-array-form-of-integer) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0118-pascals-triangle) |
 ## Binary Search
 |  |
@@ -125,4 +127,8 @@ Data Structures and Algorithms practice and implementations in Java.
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0209-minimum-size-subarray-sum) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
