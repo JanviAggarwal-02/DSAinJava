@@ -17,6 +17,7 @@ Data Structures and Algorithms practice and implementations in Java.
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0053-maximum-subarray) |
+| [0912-sort-an-array](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -24,10 +25,12 @@ Data Structures and Algorithms practice and implementations in Java.
 | [0451-sort-characters-by-frequency](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0692-top-k-frequent-words) |
+| [0912-sort-an-array](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0023-merge-k-sorted-lists) |
+| [0912-sort-an-array](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0912-sort-an-array) |
 ## Tournament Sort
 |  |
 | ------- |
@@ -50,6 +53,7 @@ Data Structures and Algorithms practice and implementations in Java.
 | [0692-top-k-frequent-words](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0704-binary-search) |
 | [0746-min-cost-climbing-stairs](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0746-min-cost-climbing-stairs) |
+| [0912-sort-an-array](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0912-sort-an-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0989-add-to-array-form-of-integer) |
 | [2418-sort-the-people](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/2418-sort-the-people) |
 ## Design
@@ -85,6 +89,7 @@ Data Structures and Algorithms practice and implementations in Java.
 | [0451-sort-characters-by-frequency](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0692-top-k-frequent-words) |
+| [0912-sort-an-array](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0912-sort-an-array) |
 | [2418-sort-the-people](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/2418-sort-the-people) |
 ## Counting
 |  |
@@ -110,6 +115,7 @@ Data Structures and Algorithms practice and implementations in Java.
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0692-top-k-frequent-words) |
+| [0912-sort-an-array](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0912-sort-an-array) |
 ## Trie
 |  |
 | ------- |
@@ -160,4 +166,12 @@ Data Structures and Algorithms practice and implementations in Java.
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0075-sort-colors) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/JanviAggarwal-02/DSAinJava/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
